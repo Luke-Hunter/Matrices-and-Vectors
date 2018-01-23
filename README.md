@@ -1,5 +1,4 @@
-# Matrices-and-Vectors
+# ODE solvers with matrices and vectors
 
-Simple C++ code to represent and manipulated matrices and vectors.
+C++ code to represent and manipulate matrices and vectors, which is then used to solve ODEs using various schemes.
 
-Currently incomplete, more code to be added.
