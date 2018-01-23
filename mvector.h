@@ -1,5 +1,5 @@
-#ifndef MVECTOR_H
-#define MVECTOR_H
+#ifndef MVECTOR_H // the 'include guard'
+#define MVECTOR_H // see C++ Primer Sec. 2.9.2
 
 #include <iostream>
 #include <vector>
