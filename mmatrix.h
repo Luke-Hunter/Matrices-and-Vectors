@@ -1,4 +1,4 @@
-#ifndef MMATRIX_H // the 'include guard'
+#ifndef MMATRIX_H
 #define MMATRIX_H
 
 #include <vector>
